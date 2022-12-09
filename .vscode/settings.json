@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/c253087e-0a80-4ebf-b9ab-88ca8d7c877e/AppServices/subscriptions/c253087e-0a80-4ebf-b9ab-88ca8d7c877e/resourceGroups/park99/providers/Microsoft.Web/sites/parkweb99",
+    "appService.deploySubpath": "bin\\Publish"
+}

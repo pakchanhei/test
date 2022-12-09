@@ -1,0 +1,7 @@
+C:\Users\psw99\.vscode\.vscode\park1\MyMVCapp\bin\Publish\MyMVCapp.exe
+C:\Users\psw99\.vscode\.vscode\park1\MyMVCapp\bin\Publish\appsettings.Development.json
+C:\Users\psw99\.vscode\.vscode\park1\MyMVCapp\bin\Publish\appsettings.json
+C:\Users\psw99\.vscode\.vscode\park1\MyMVCapp\bin\Publish\MyMVCapp.dll
+C:\Users\psw99\.vscode\.vscode\park1\MyMVCapp\bin\Publish\MyMVCapp.deps.json
+C:\Users\psw99\.vscode\.vscode\park1\MyMVCapp\bin\Publish\MyMVCapp.runtimeconfig.json
+C:\Users\psw99\.vscode\.vscode\park1\MyMVCapp\bin\Publish\MyMVCapp.pdb
